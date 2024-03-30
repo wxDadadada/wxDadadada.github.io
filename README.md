@@ -111,9 +111,6 @@
         <ul>
           <li><a>admin@wxda.email</a></li>
         </ul>
-        <ul>
-          <li><a>发送邮件获取最新地址</a></li>
-        </ul>
       </div>
       <div class="field desc">
         <h4 class="title">✐ 溫馨提示</h4>
@@ -126,7 +123,6 @@
         </ul>
       </div>
       <div class="field foot">
-        <p><a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">京ICP备15042860号-1</a></p>
         <p>Copyright © 2024 wxDa</p>
       </div>
     </div>
